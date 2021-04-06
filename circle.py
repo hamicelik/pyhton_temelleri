@@ -1,6 +1,6 @@
 pi = 3.14          #ctrl+k+c tüm seçtiğim satırları '#' ile yoruma alıyor. ctrl+k+u tüm seçtiğim satırların  yorumunu kaldıyor.
 
-r = input("Yarı çapı giriniz: ")
+r = input("Yarı çapı giriniz: ") 
 r= int(r)
 circle_area= pi*(r**2)
 
